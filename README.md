@@ -8,4 +8,4 @@ This code was written in python 3.8.5 and should be compatibale with any sub ver
 To have this code work correctly you need to leave the code open and running in the background. There is no pause or memeory in this code at all and it will automatically cycle through the different times with no need to click on the notification. if the code is still running but you are note reciving noteifications check that focus assist has not turnt on as that will interupt the code.
 
 ## Issues
-if you have any problems contact me via discord directly: ath0rus#0001 or ping me (@Frosty) on my [discord server](https://invite.gg/ath0rus), or on twitter: @ath0rus. I prefer to be contacted via discord as i am usually always active if not i will see the message later.
+if you have any problems contact me via discord directly: ath0rus#0001 or ping me (@Frosty) on my [discord server](http://discord.ath0rus.com)
